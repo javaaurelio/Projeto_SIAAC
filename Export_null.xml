@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 393
+
+<ExportConfiguration>
+<OutputFormatType>XML Document</OutputFormatType>
+<ExportResourcesBasedOnTagName>Yes</ExportResourcesBasedOnTagName>
+<Tags>
+<Tag Name="null"></Tag>
+</Tags>
+<ExportType>Standard</ExportType>
+<Passphrase>
+<SecurityContext>Suppliers</SecurityContext>
+<SecurityIdentity>dec01</SecurityIdentity>
+<ExportCertificate>Yes</ExportCertificate>
+</Passphrase>
+</ExportConfiguration>
